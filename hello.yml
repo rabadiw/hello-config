@@ -1,2 +1,2 @@
-message: hello world!
-CLIENT_COLOR: blue
+client_message: Hello config root says, hello world!
+client_color: blue
